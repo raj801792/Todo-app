@@ -66,7 +66,7 @@ function showNotes() {
         notesEle.innerHTML = html;
     }
     else {
-        notesEle.innerHTML = `Notes are not presant plz Add a Note`;
+        notesEle.innerHTML = `No task are present`;
     }
     
 }

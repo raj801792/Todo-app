@@ -1,0 +1,18 @@
+.mt{
+    margin: 12px 0px;
+}
+.bd{
+    border-radius: 10px;
+}
+.w{
+    width: 749px;
+}
+
+.cri{
+    width: 10px;
+    height: 10px;
+    border: 2px solid black;
+    border-radius: 50%;
+    
+}
+
